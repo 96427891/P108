@@ -1,0 +1,20 @@
+.copy_right_footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+
+body {
+    background-color: rgb(5, 196, 133);
+}
+
+#title {
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+h3 {
+    letter-spacing: -1px;
+}
